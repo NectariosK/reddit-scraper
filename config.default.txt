@@ -3,7 +3,7 @@
 # - https://buildmedia.readthedocs.org/media/pdf/reddit-api/latest/reddit-api.pdf
 # - https://pushshift.io/api-parameters/
 score	>100
-num_comments	>10
+num_comments	>100
 mod_removed	False
 user_removed	False
 is_video	False
